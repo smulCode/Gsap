@@ -1,0 +1,31 @@
+section{
+    display:grid;
+    place-content: center;
+    height:100vh;
+    font-size: 13vw;
+    color: white;
+    width: 100%;
+    padding:0 50vw;
+
+}
+#section-1{
+    background:red;
+}
+#section-2{
+    background:blue;
+}
+#section-3{
+    background:orange;
+}
+#section-4{
+    background:green;
+}
+#section-5{
+    background:purple;
+}
+.container{
+    display:flex;
+    flex-direction:row;
+
+    width:100vw;
+}
